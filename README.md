@@ -90,3 +90,6 @@ This tests document CRUD lifecycle, nested queries, transaction commit/rollback,
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by jocck96.*
